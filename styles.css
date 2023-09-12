@@ -1,0 +1,106 @@
+#sign_in{
+    border: 1px solid rgb(215, 215, 215);
+
+}
+
+#sinlogo{
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+#email{
+    font-size: 12px;
+    margin-bottom: 7px;
+}
+
+#enter{
+    width: 100%;
+    font-size: 15px;
+}
+
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#password{
+    width: 100%;
+    margin-top: 5px;
+    font-size: 15px;
+}
+#forgot{
+    text-decoration: none;
+    margin-left: 45%;
+    font-size: 16px;
+}
+#pass_div{
+    padding-top: 15px;
+}
+#pass_label{
+    font-size: 12px;
+}
+#cont{
+    width: 98%;
+    border: 0.25px solid grey;
+    background-color: rgb(255, 197, 88);
+    margin-top: 20px;
+    font-size: 15px;
+    border-width: thin;
+    
+}
+#help{
+    text-decoration: none;
+    font-size: 14px;
+    position: relative;
+}
+#need_div{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+#new_am{
+    color: grey;
+    border-bottom: 1px solid grey;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+#new_span{
+    background: #fff;
+    padding: 0 10px;
+}
+
+#cre_btn{
+    border: 1px solid grey;
+    width: 100%;
+    font-size: 13px;
+    background-color: rgb(215, 215, 215);
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+#foot_line{
+    border: 1px solid rgb(215, 215, 215);
+    width: 100%;
+}
+
+#foot_ul li{
+    list-style-type: none;
+    display: inline;
+    font-size: 12px;
+    margin-right: 17px;
+    position: relative;
+    left: -10px;
+}
+#fot_div{
+    display: inline;
+}
+
+#foot_ul a{
+    text-decoration: none;
+}
+
+#copy{
+    font-size: 12px;
+    margin-top: -25px;
+}
